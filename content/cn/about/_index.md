@@ -1,22 +1,20 @@
 ---
-title: "王大锤简历"
+title: "宿湘林简历"
 type : list-single
 toc: true
 ---
 
-姓名：王大锤
+姓名：宿湘林
 
-职业：演员
+职业：研究员
 
-英文名：David Wang
+英文名：Xianglin Su
 
-代表作品：《万万没想到》
+电话：+86-158-8965-4084
 
-电话：+86-800-900-1000
+个人网站：www.sherlino.github.io
 
-个人网站：www.wangdachui.com
-
-生日：2000年0月0日
+生日：1995年8月28日
 
 ## 教育经历
 

@@ -56,12 +56,12 @@ The difference between the two methods is that if you add it as a submodule, the
 
 Simply `git clone` is recommended if:
 
-- You pretty satisfied with the current version of `hugo-ht`; and/or
 
 - You are going to make changes according to your personal taste; and/or
 
 - You are not familiar with Git and do not know how to update the submodule. 
 
+- You pretty satisfied with the current version of `hugo-ht`; and/or
 To update the submodule, run the following codes at the root directory of your hugo project:
 
 ```bash
