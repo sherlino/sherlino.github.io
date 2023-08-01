@@ -2,7 +2,7 @@
 title: About
 ---
 
-{{<figure src="/media/ss.jpeg" title="About me" width="500">}}
+{{<figure src="/media/ss.jpeg" title="About me" width="450">}}
 
 Hi,welcome to my website, and nice to e-meet you! My name is Xianglin Su, and I go by Cici.
 
