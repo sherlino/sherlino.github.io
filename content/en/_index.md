@@ -1,7 +1,10 @@
 ---
-title: "English page"
-type : nolisting
+title: "About"
+type : list-single
 ---
 
-### English homepage test 
+### English page test
+This is Xianglin Su.
+<!-- Scholars
 
+	- [Xianglin Su](https://scholar.google.com/citations?user=f98hqwkAAAAJ&hl=en)-->

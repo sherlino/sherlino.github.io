@@ -37,11 +37,11 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 6
 [[menu.en]]
     name = "中文"
-    url = "/cn/posts/"
+    url = "/cn/about/"
     weight = 7
 [[menu.cn]]
     name = "关于"
-    url = "/cn/about/"
+    url = "/cn/"
     weight = 1
 [[menu.cn]]
     name = "日志"
@@ -54,7 +54,7 @@ posts = "/posts/:year/:month/:day/:slug/"
 
 [params]
     description = "Peronal website of Your Name"
-    homeText = "You just need a Hugo blog from scratch"
+    homeText = "Xianglin Su's Personal Website"
     # Please make sure `blogDirNmae` matches the name used in `menu` above:
     blogDirName = "Posts"
     # singleLang = true

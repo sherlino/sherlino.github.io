@@ -1,7 +1,7 @@
 ---
-title: '中文博客'
+title: 'English Posts'
 date: ''
 ---
 
-## 我的博客
+## Posts
 
