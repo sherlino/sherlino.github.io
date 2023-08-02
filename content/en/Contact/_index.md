@@ -23,17 +23,14 @@ for you_are in list(visitors):
 ```
 
 
-{{<figure src="https://sherlino.github.io/media/cloud.jpeg" title="Title: E-meet You in a Beautiful Day" >}}
+{{<figure src="https://sherlino.github.io/media/cloud.jpeg" title="E-meet You in a Beautiful Day" >}}
 
 
-{{<block class="email" >}}
-suxianglinde@gmail.com
-{{< end >}}
 
 
 {{< columns >}}
 
-{{<figure-a src="hhttps://sherlino.github.io/media/blocks/email.png" >}}
+{{<figure-a src="https://sherlino.github.io/media/blocks/email.png" >}}
 
 {{< column >}}
 
