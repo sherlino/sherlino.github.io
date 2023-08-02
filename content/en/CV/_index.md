@@ -1,8 +1,8 @@
 ---
-title: "Curriculum Vitae(https://sherlino.github.io/files/xianglinsu_CV.pdf)"
+title: "Curriculum Vitae"
 type : list-single
 ---
-
+[Curriculum Vitae](https://sherlino.github.io/files/xianglinsu_CV.pdf)
 
 # Xianglin Su
 
