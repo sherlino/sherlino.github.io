@@ -1,7 +1,7 @@
 ---
 title: "Markdown Testing"
 date: 2021-01-07T13:37:57-05:00
-author: Your Name
+author: sxl
 slug: second-post
 draft: false
 toc: false
@@ -23,5 +23,20 @@ for you_are in list(visitors):
 ```
 
 
-{{<figure src="https://www.rd.com/wp-content/uploads/2016/09/fall-photos-Iowa_Stewart.jpg" title="Title: E-meet You in a Beautiful Seaon" >}}
+{{<figure src="https://sherlino.github.io/media/cloud.jpeg" title="Title: E-meet You in a Beautiful Day" >}}
 
+
+{{<block class="email" >}}
+suxianglinde@gmail.com
+{{< end >}}
+
+
+{{< columns >}}
+
+{{<figure-a src="hhttps://sherlino.github.io/media/blocks/email.png" >}}
+
+{{< column >}}
+
+suxianglinde@gmail.com
+
+{{< endcolumn >}}

@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 type : list-single
 ---
-[Curriculum Vitae](https://sherlino.github.io/files/xianglin_CV.pdf)
+[Curriculum Vitae](https://sherlino.github.io/files/xianglinsu_CV.pdf)
 
 # Xianglin Su
 
