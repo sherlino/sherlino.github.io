@@ -2,9 +2,10 @@
 title: "Curriculum Vitae"
 type : list-single
 ---
-[Curriculum Vitae](https://github.com/sherlino/sherlino.github.io/tree/master/static/xianglin_CV.pdf)
+[Curriculum Vitae](https://sherlino.github.io/files/xianglin_CV.pdf)
 
 # Xianglin Su
+
 Contact:suxianglinde@gmail.com
 
 Born: Aug 28, 1995, China\
