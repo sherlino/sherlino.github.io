@@ -36,5 +36,5 @@ for you_are in list(visitors):
 
 
 
-{{<figure src="https://sherlino.github.io/media/cloud.jpeg" title="E-meet You in a Beautiful Day" >}}
+{{<figure src="https://sherlino.github.io/media/cloud.jpeg" title="E-meet You in a Beautiful Day" class="fullwidth">}}
 
