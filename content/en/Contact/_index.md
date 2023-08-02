@@ -23,9 +23,13 @@ for you_are in list(visitors):
 ```
 
 
+
+
+
+
 {{< columns >}}
 
-{{<figure-a src="https://sherlino.github.io/media/blocks/email.png" width="200">}}
+{{<figure-a src="https://sherlino.github.io/media/blocks/email.png" width="100">}}
 
 {{< column >}}
 
@@ -36,5 +40,5 @@ for you_are in list(visitors):
 
 
 
-{{<figure src="https://sherlino.github.io/media/cloud.jpeg" title="E-meet You in a Beautiful Day" class="fullwidth">}}
+{{<figure src="https://sherlino.github.io/media/cloud.jpeg" title="E-meet You in a Beautiful Day">}}
 
