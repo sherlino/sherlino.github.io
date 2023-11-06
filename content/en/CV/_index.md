@@ -8,11 +8,11 @@ type : list-single
 
 Contact:suxianglinde@gmail.com
 
-Born: Aug 28, 1995, China\
+Born: Aug 28, 1995, China
 Add:
 Guangzhou Daily News Group Center,
 YuejiangXi Road, Haizhu District,
-No. 366, Guangzhou, P. R. China\
+No. 366, Guangzhou, P. R. China
 
 ## Work Experience
 Think Tank Researcher, Guangzhou Daily News Group Center, July, 2020 – Present.
