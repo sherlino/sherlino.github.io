@@ -23,22 +23,5 @@ for you_are in list(visitors):
 ```
 
 
-
-
-
-
-{{< columns >}}
-
-{{<figure-a src="https://sherlino.github.io/media/blocks/email.png" width="100">}}
-
-{{< column >}}
-
-# suxianglinde@gmail.com
-
-{{< endcolumn >}}
-
-
-
-
 {{<figure src="https://sherlino.github.io/media/cloud.jpeg" title="E-meet You in a Beautiful Day">}}
 
