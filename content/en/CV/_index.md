@@ -54,10 +54,10 @@ To maintain brand reputation and optimize brand marketing strategy, build a seri
 
 
 ## Research Interests
-   1. Adolescent and Social Media;
-   2. Computational Communication;
-   3. Health Communication;
-   4. Persuasion and Strategic Communication.
+   1. Adolescent and Social Media
+   2. Computational Communication
+   3. Health Communication
+   4. Persuasion and Strategic Communication
  
 
 ## Honors & Fellowsh
