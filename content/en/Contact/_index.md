@@ -21,7 +21,7 @@ for you_are in list(visitors):
   ]:
   print("Feel free to connect me at suxianglinde@gmail.com")
 ```
+# E-meet You in a Beautiful Day
 
-
-{{<figure src="https://sherlino.github.io/media/cloud.jpeg" title="E-meet You in a Beautiful Day">}}
+{{<figure src="https://sherlino.github.io/media/cloud.jpeg" >}}
 
