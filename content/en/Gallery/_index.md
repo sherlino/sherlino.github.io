@@ -21,6 +21,5 @@ tags:
   - English
 ---
 
-{{<figure src="media/gallery/DSC_1542.jpg" title="1" width="450">}}
-{{<figure src="/media/gallery/DSC_2681.jpg" title="2" width="450">}}
-{{<figure src="/media/gallery/IMG_1428.jpeg" title="3" width="450">}}
+{{<figure src="media/gallery/IMG_0841.jpeg"  width="450">}} {{<figure src="/media/gallery/IMG_0844.jpeg" width="450">}}
+{{<figure src="/media/gallery/IMG_1428.jpeg" width="450">}} {{<figure src="/media/gallery/IMG_1978.jpeg" width="450">}}
