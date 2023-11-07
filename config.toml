@@ -36,9 +36,13 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/en/CV/"
     weight = 6
 [[menu.en]]
+    name = "Gallery"
+    url = "/en/Gallery/"
+    weight = 7
+[[menu.en]]
     name = "中文"
     url = "/cn/about/"
-    weight = 7
+    weight = 8
 [[menu.cn]]
     name = "关于"
     url = "/cn/"
