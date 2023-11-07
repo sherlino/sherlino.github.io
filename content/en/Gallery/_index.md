@@ -6,12 +6,12 @@ slug: second-post
 description: "My gallery :earth_asia:"
 layout: "gallery"
 images:
- - src: "/media/gallery/DSC_1542.jpg"
- - src: "/media/gallery/DSC_2681.jpg,width-650,imgsize-1016106,,resizemode-4,quality-100/nature1_gettyimages.jpg"
+ - src: /media/gallery/DSC_1542.jpg
+ - src: /media/gallery/DSC_2681.jpg
  - src: "/media/gallery/DSC_2700.jpg"
  - src: "/media/gallery/DSC_9484.jpg"
- - src: "/media/gallery/IMG_1978.jpg"
- - src: "/media/gallery/IMG_1428.jpg"
+ - src: "/media/gallery/IMG_1978.jpeg"
+ - src: "/media/gallery/IMG_1428.jpeg"
 draft: false
 toc: false
 categories:
